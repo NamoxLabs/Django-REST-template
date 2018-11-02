@@ -1,0 +1,9 @@
+Django>=2.0
+djangorestframework>=3.1
+django-webpack-loader>=0.5.0
+elasticsearch>=2.0.0,<3.0.0
+faker>=0.7.7
+psycopg2>=2.7.5
+pytest>=2.8.0
+pytest-django
+uwsgi>=2.0.0
